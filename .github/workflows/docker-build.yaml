@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: shashvatgupta448/python-helloworld:latest
+          tags: shashvatgupta448/python-helloworld/python-helloworld:latest
